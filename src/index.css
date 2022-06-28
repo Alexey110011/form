@@ -66,6 +66,10 @@ code {
 .correct {
 	visibility:hidden
 }
+.correct1 {
+	color:black;
+	border-color: black}
+
 .warning {
 	visibility: visible;
 }
