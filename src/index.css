@@ -77,3 +77,29 @@ code {
 	color:red;
 	border-color: red;
 }
+
+.server- {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width:200px;
+	height:60px;
+	visibility: visible;
+	background-color: red;
+	color:white;
+	margin-left: 60px;
+}
+.serverPlus{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width:200px;
+	height:60px;
+	visibility: visible;
+	background-color: green;
+	color:white;
+	margin-left: 60px;
+}
+.justserver {
+	visibility: hidden;
+}
