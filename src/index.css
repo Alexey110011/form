@@ -79,6 +79,7 @@ code {
 }
 
 .server- {
+	margin-top:20px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -90,6 +91,7 @@ code {
 	margin-left: 60px;
 }
 .serverPlus{
+	margin-top:20px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -102,4 +104,15 @@ code {
 }
 .justserver {
 	visibility: hidden;
+}
+.mail {
+position:absolute;
+top:170px
+}
+.name {
+position:absolute;
+top:70px
+}
+.text {
+	min-width:305px;
 }
